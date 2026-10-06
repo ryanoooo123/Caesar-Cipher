@@ -1,3 +1,3 @@
-### Caesar Cipher
+# Caesar Cipher
 
-## this is just for practice
+### this is just for practice
